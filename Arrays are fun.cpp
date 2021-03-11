@@ -35,6 +35,6 @@ int main()
     	}
     sublen++;
   }
-  cout<<"Hello"<<min<<"Hello"<<endl;
+  cout<<"Min Sum"<<min<<endl;
   return 0;
 }
