@@ -32,6 +32,7 @@ int main()
 		}
 		
 	}**/
+	//uncomment above and comment the below code
 	int sum=0;
 	for(int i=0;i<n;i++){
 		cin>>arr[i];
@@ -60,7 +61,7 @@ int main()
 		}
 		
 	}
-	cout<<"No result found";
 
+  cout<<"No result found";
   return 0;
 }
